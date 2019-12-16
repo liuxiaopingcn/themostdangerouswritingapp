@@ -1,5 +1,9 @@
 # APP本地化执行
-Clone项目到本地，进入文件夹下执行
+
+2019年12月17日03:06:46  
+_upload run it in local.zip,you can download it and used immediately_
+
+#### Clone项目到本地，进入文件夹下执行
 ```
 npm install
 npm run build
@@ -27,3 +31,6 @@ npm run build
 ### 运行Build目录下index.html即可本地使用。
 
 _感谢软件原作者：https://github.com/maebert/themostdangerouswritingapp_
+
+
+
